@@ -18,7 +18,7 @@
 /*.sec2 .bg-crt img{float: right; max-width: 100%; height: auto;}*/
 
 .sec3{float: left; width: 100%; background: #000; padding: 0;}
-.sec3 .sub-sect2{float: left; width: 100%; background: url(../image/bg-sect3.png) no-repeat right top; padding: 60px 275px 0 0; position: relative; margin: -92px 0 0;}
+
 .sec3 .sub-sect2 .cartao{position: absolute; top: -24.5%; right: 10.5%; padding: 0;}
 .sec3 .sub-sect2 .cartao img{max-width: 100%; height: auto;}
 .sec3 .sub-sect2 .txt{float: left; width: 100%; text-align: right; padding: 150px 0 0 285px;}
@@ -38,7 +38,7 @@
 
 
 .sec4 .sub-sect1 .txt strong.green{color: #fff;}
-.sec4 .lista-services{float: left; width: 100%; background: url(../image/bg-txt-sect4.png); min-height: 800px; position: relative;}
+.sec4 .lista-services{float: left; width: 100%; background: url(../image/bg-txt-sect4.png); position: relative;}
 .sec4 .lista-services i.fa{position: absolute; color: #000; font-size: 100px; line-height: 0; top: 0; left: 250px;}
 .sec4 .lista-services .lista{float: left; width: 660px; margin: 50px 0 0 250px;}
 .sec4 .lista-services .lista .li{display: table; width: 100%; margin: 0 0 20px;}
@@ -124,7 +124,7 @@
     /*.sec1{padding: 170px 0 630px;}*/
     .sec2 .bg-txt{background: #fff; border-radius: 25px; padding: 45px; height: auto;}
     .sec2 .bg-crt{margin: -165px 0 0;}
-    .sec2 .bg-crt img{float: right; max-width: none; width: 350px; position: relative; top: -44px;}
+    .sec2 .bg-crt img{left: 20px; max-width: none; width: 350px; position: sticky; top: -44px;}
     .sec3 .sub-sect2{padding: 60px 35px 0 0;}
     .sec3 .sub-sect2 .cartao{top: -27.5%; right: 3.5%;}
     .sec4{margin: 0; background: #000;}
